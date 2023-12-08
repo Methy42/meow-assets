@@ -1,0 +1,14 @@
+{
+    "name": "meow-assets",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "serve . --listen 10234 --ssl-cert /home/ubuntu/workplace/cret/methy/methy.net_bundle.crt --ssl-key /home/ubuntu/workplace/cret/methy/methy.net.key"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
+}
